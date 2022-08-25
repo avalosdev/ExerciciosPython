@@ -4,14 +4,11 @@ Introdução ao Python
  Aula ministrada pelo Instrutor:
  
 Andres Gilberto Machado da Silva Benoit
->
+
 * Operações básicas e declarar variáveis
-
-Mostrar informações para o usuário
-
-Obter dados do usuário
-
-Lidar com cadeia de palavras (Strings)
+* Mostrar informações para o usuário
+* Obter dados do usuário
+* Lidar com cadeia de palavras (Strings)
 
 Listas e matrizes
 
