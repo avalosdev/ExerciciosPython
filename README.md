@@ -1,9 +1,11 @@
 # ExerciciosPython
-Introdução ao Python -
+Introdução ao Python 
+
  Aula ministrada pelo Instrutor:
+ 
 Andres Gilberto Machado da Silva Benoit
 >
-Operações básicas e declarar variáveis
+* Operações básicas e declarar variáveis
 
 Mostrar informações para o usuário
 
